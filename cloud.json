@@ -1,0 +1,21 @@
+{
+  "notice": {
+    "id": 1,
+    "title": "公告",
+    "text": "欢迎使用 Alaric 版本。\n\n这是一个可以云端修改的弹窗公告：你只需要修改 GitHub 上的这个 JSON 文件，所有用户下次启动就会看到。\n\n把 id 改成更大的数字即可再次弹出。",
+    "button": "知道了",
+    "url": "https://github.com/",
+    "urlButton": "查看详情"
+  },
+  "update": {
+    "versionCode": 5100001,
+    "versionName": "5.1.1",
+    "force": false,
+    "title": "发现新版本",
+    "changelog": [
+      "优化了预览流畅度",
+      "修复了若干问题"
+    ],
+    "downloadUrl": "https://github.com/<你的用户名>/<仓库名>/releases/latest"
+  }
+}
